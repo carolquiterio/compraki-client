@@ -49,7 +49,12 @@ export default function FinishSale() {
         <PartnerContainer
           name="Quentinhas da Zezé"
           km="2,1"
-          img="../../assets/partners/1.png"
+          img="../../assets/partners/2.png"
+        />
+        <PartnerContainer
+          name="JR Sobrancelhas"
+          km="2,5"
+          img="../../assets/partners/3.png"
         />
         <PartnerContainer
           name="JR Sobrancelhas"

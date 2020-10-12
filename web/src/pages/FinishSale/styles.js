@@ -1,6 +1,9 @@
 import styled from "styled-components";
 
-export const Container = styled.div``;
+export const Container = styled.div`
+  width: 100vw;
+  height: 100vh;
+`;
 
 export const MiddleContainer = styled.div`
   display: flex;
@@ -13,13 +16,14 @@ export const BackLine = styled.div`
   display: flex;
   background: #6fcf97;
   height: 50vh;
-  width: 100vw;
+  width: 100%;
   justify-content: center;
   vertical-align: bottom;
 `;
 
 export const CongratsImg = styled.img`
   width: 80%;
+  margin-top: 10rem;
 `;
 
 export const BlueText = styled.h2`
