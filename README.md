@@ -16,9 +16,10 @@
 
 ## :bookmark: About
 
-O <strong>Compraki</strong> é um aplicativo para ajudar MEIs a conseguir fluxo de caixa. .
+O <strong>Compraki</strong> é um aplicativo para ajudar MEIs a conseguir fluxo de caixa.
 
-A aplicação é uma plataforma [web](https://www.github.com/carolquiterio/compraki-client/) e mobile, exclusiva para MEIs, com diversas funções associadas à geração de caixa e fomento dos negócios locais.
+A aplicação é uma plataforma [mobile](https://www.github.com/carolquiterio/compraki/) e web, exclusiva para MEIs, com diversas funções associadas à geração de caixa e fomento dos negócios locais.
+Neste repositório está o link que pode ser enviado para as(os) dos usuários do app.
 
 <a id="tecnology"></a>
 
@@ -27,35 +28,27 @@ A aplicação é uma plataforma [web](https://www.github.com/carolquiterio/compr
 O projeto foi desenvolvido usando as seguintes tecnologias
 
 - [Javascript](https://www.javascript.com/)
-- [Node.js](https://nodejs.org/en/)
-- [React Native](https://reactnative.dev/)
+- [React ](https://pt-br.reactjs.org/)
 - [Getnet API's](https://developers.getnet.com.br/)
 
 ## :heavy_check_mark: :iphone: Mobile
 
-- O layout está dísponível no **[Figma](https://www.figma.com/file/Ca7HJGaQtsNkcPOiJyVDzw/Compraki?node-id=98%3A3639)**;
+- O layout está dísponível no **[Figma](https://www.figma.com/file/Ca7HJGaQtsNkcPOiJyVDzw/Compraki?node-id=0%3A1)**;
 
 <h1 align="center">
-    <img alt="Boas vindas" src="github/BoasVindas.png" width="300px">
-    <img alt="Menu" src="github/Menu.png" width="300px"> 
+    <img alt="Ofertas" src="github/1.png" width="300px">
+    <img alt="Compra" src="github/4.png" width="300px"> 
     <br>
-    <img alt="Minha rede" src="github/MinhaRede.png" width="300px">
-    <img alt="Onboardng" src="github/Onboarding.png" width="300px">
+    <img alt="Whatsapp" src="github/2.png" width="300px">
+    <img alt="Parabéns" src="github/3.png" width="300px">
 </h1>
 
 <a id="como-usar"></a>
 
-## :fire: Como usar
-
-- ### **Requeridos**
-
-  - É **necessário** ter **[Node.js](https://nodejs.org/en/)** instalado no PC.
-  - Além disso, é **necessário** ter um gerenciador de pactes **[NPM](https://www.npmjs.com/)** ou **[Yarn](https://yarnpkg.com/)**
-
 1. Make a clone :
 
 ```sh
-  $ git clone https://github.com/carolquiterio/mhw.git
+  $ git clone https://github.com/carolquiterio/compraki-client.git
 ```
 
 2. Execute the aplication:
@@ -65,9 +58,8 @@ O projeto foi desenvolvido usando as seguintes tecnologias
   $ npm install
 
   # Start the aplication
-  $ cd mobile
-  $ npx start
-  $ npx react-native run-android
+  $ cd web
+  $ npm start
 
 
 ```
