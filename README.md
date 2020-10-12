@@ -23,7 +23,7 @@ Neste repositório está o link que pode ser enviado para as(os) dos usuários d
 
 <a id="tecnology"></a>
 
-## :rocket: Tecnology
+## :rocket: Tecnologias
 
 O projeto foi desenvolvido usando as seguintes tecnologias
 
@@ -36,11 +36,11 @@ O projeto foi desenvolvido usando as seguintes tecnologias
 - O layout está dísponível no **[Figma](https://www.figma.com/file/Ca7HJGaQtsNkcPOiJyVDzw/Compraki?node-id=0%3A1)**;
 
 <h1 align="center">
-    <img alt="Ofertas" src="github/1.png" width="300px">
-    <img alt="Compra" src="github/4.png" width="300px"> 
+    <img alt="Ofertas" src="github/1.jpg" width="300px">
+    <img alt="Compra" src="github/4.jpg" width="300px"> 
     <br>
-    <img alt="Whatsapp" src="github/2.png" width="300px">
-    <img alt="Parabéns" src="github/3.png" width="300px">
+    <img alt="Whatsapp" src="github/2.jpg" width="300px">
+    <img alt="Parabéns" src="github/3.jpg" width="300px">
 </h1>
 
 <a id="como-usar"></a>
