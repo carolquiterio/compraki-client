@@ -40,7 +40,7 @@ export const PartnerKM = styled.label`
 
   /* Gray 3 */
 
-  color: #828282;
+  color: #4f4f4f;
 `;
 
 export const StyledFooter = styled.footer`

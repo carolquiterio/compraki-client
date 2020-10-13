@@ -20,7 +20,7 @@ export const SectionTitle = styled.h2`
   text-align: center;
   letter-spacing: -0.303916px;
 
-  color: #2d384c;
+  color: #4f4f4f;
   margin-bottom: 1rem;
   margin-top: 1rem;
 `;
@@ -35,12 +35,12 @@ export const InputName = styled.h4`
 
   letter-spacing: -0.303916px;
 
-  color: rgba(45, 56, 76, 0.67);
+  color: #4f4f4f;
   margin-top: 0.4rem;
 `;
 
 export const StyledInput = styled.input`
-  border: 1px solid rgba(45, 56, 76, 0.4);
+  border: 1px solid #4f4f4f;
   box-sizing: border-box;
   border-radius: 0.4rem;
   background-color: #fff;
@@ -51,7 +51,7 @@ export const StyledInput = styled.input`
   margin-top: 0.2rem;
   padding: 0.5rem;
   font-size: 1rem;
-  color: rgba(45, 56, 76, 0.5);
+  color: #4f4f4f;
 `;
 
 export const BuyButtonText = styled.label`
@@ -85,12 +85,12 @@ export const StyledTextArea = styled.textarea`
     outline: none;
   }
   border-radius: 0.3rem;
-  border: 1px solid rgba(45, 56, 76, 0.4);
+  border: 1px solid #4f4f4f;
   padding: 0.6rem;
 `;
 
 export const StyledInputEnd = styled.input`
-  border: 1px solid rgba(45, 56, 76, 0.4);
+  border: 1px solid #4f4f4f;
   box-sizing: border-box;
   border-radius: 0.4rem;
   background-color: #fff;
@@ -101,5 +101,5 @@ export const StyledInputEnd = styled.input`
   margin-top: 0.2rem;
   padding: 0.5rem;
   font-size: 1rem;
-  color: rgba(45, 56, 76, 0.5);
+  color: #4f4f4f;
 `;

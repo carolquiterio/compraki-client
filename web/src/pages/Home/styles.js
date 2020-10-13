@@ -69,7 +69,7 @@ export const SectionText = styled.label`
 
   letter-spacing: -0.303916px;
 
-  color: #2d384c;
+  color: #4f4f4f;
   margin-top: 1rem;
 `;
 

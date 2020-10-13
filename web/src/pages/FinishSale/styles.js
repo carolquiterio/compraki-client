@@ -56,7 +56,7 @@ export const DetailsText = styled.h4`
 
   /* Gray 3 */
 
-  color: #828282;
+  color: #4f4f4f;
   text-align: center;
   margin-top: 2rem;
 `;
