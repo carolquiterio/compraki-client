@@ -6,7 +6,7 @@ export const Container = styled.div`
   justify-content: space-around;
   flex-direction: column;
   align-items: flex-start;
-  padding: 0.3rem;
+  padding: 3rem;
 `;
 
 export const SectionTitle = styled.h2`
