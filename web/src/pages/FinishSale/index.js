@@ -1,6 +1,7 @@
 import React from "react";
 
 import PartnerContainer from "../../components/PartnerContainer";
+import PartnerDois from "../../components/PartnerDois";
 
 import {
   MiddleContainer,
@@ -39,29 +40,30 @@ export default function FinishSale() {
           <PartnersText>Parceiros de Ana</PartnersText>
           <SeeMoreText>Ver mais</SeeMoreText>
         </RowDiv>
+        <RowDiv>
+          <PartnerContainer
+            name="Jussara Cabelos Afro"
+            km="1,4"
+            img="../../assets/partners/1.png"
+          />
+          <PartnerDois
+            name="Quentinhas da Zezé"
+            km="2,1"
+            img="../../assets/partners/2.png"
+          />
+          <PartnerContainer
+            name="JR Sobrancelhas"
+            km="2,5"
+            img="../../assets/partners/3.png"
+          />
+          <PartnerDois
+            name="JR Sobrancelhas"
+            km="2,5"
+            img="../../assets/partners/1.png"
+          />
+        </RowDiv>
       </MiddleSecondContainer>
-      <RowDiv>
-        <PartnerContainer
-          name="Jussara Cabelos Afro"
-          km="1,4"
-          img="../../assets/partners/1.png"
-        />
-        <PartnerContainer
-          name="Quentinhas da Zezé"
-          km="2,1"
-          img="../../assets/partners/2.png"
-        />
-        <PartnerContainer
-          name="JR Sobrancelhas"
-          km="2,5"
-          img="../../assets/partners/3.png"
-        />
-        <PartnerContainer
-          name="JR Sobrancelhas"
-          km="2,5"
-          img="../../assets/partners/1.png"
-        />
-      </RowDiv>
+
       <StyledFooter>
         <FooterText>Dúvidas ou problemas clique aqui</FooterText>
         <FooterLogo href="/" src={imgLogo} />
